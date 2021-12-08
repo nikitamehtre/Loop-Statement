@@ -10,10 +10,6 @@ public class for_loop {
 		{
 			System.out.println(num + "*" + i + "=" + num * i);
 		}
-			
-		
-		
-
 	}
 
 }
